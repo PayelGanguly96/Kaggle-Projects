@@ -1,5 +1,4 @@
-# Kaggle-Competitions
-Several competitions being held at Kaggle:- 
+Description of the projects :- 
 
 #1 Titanic: To create a model that predicts which passengers survived the Titanic shipwreck using machine learning (https://www.kaggle.com/c/titanic)
 
